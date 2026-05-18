@@ -1,6 +1,10 @@
 JustALineBot
 ===
 
+# about
+
+此專案為 Line bot Message API 基本的使用方法,以及方便區分指令的方法
+
 # 安裝 ngrok
 
 ngrok -> [在這](https://ngrok.com/)
@@ -133,6 +137,8 @@ npm start
 > 範例2 
 
 * 套用Onion Strategy
+* 為什麼要用這個?
+    * 不然你會有一大堆 if else, 或是 switch case
 
 [OnionStrategy](https://github.com/YICHUNLIN/onion-strategy)
 
