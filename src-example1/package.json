@@ -2,6 +2,7 @@
   "name": "just-a-linebot",
   "version": "1.0.0",
   "scripts": {
+    "base": "node ./bin/www-001",
     "start": "node ./bin/www"
   },
   "author": "",
