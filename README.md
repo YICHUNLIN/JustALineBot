@@ -11,6 +11,21 @@ ngrok http 9999
 
 [Line console](https://developers.line.biz/console)
 
+> access token
+
+![image](https://github.com/YICHUNLIN/JustALineBot/blob/main/assert/accesstoken.png)
+
+> secret
+
+![image](https://github.com/YICHUNLIN/JustALineBot/blob/main/assert/secret.png)
+
+> webhook
+
+![image](https://github.com/YICHUNLIN/JustALineBot/blob/main/assert/webhook.png)
+
+
+
+
 ## .env
 
 ```
